@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POI</string>
+    <string name="input_text">input text</string>
+    <string name="create_docx">Create DOCX</string>
+    <string name="create_xlsx">Create XLSX</string>
+    <string name="create_pptx">PPTX</string>
+</resources>
